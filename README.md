@@ -1,13 +1,5 @@
 # HELLO WORLD
 
-气味儿 sdfj
+重新创建一个develop的文件
 
-
-是的发送地方
-
-
-史蒂夫
-
-第三方
-
-今天
+合并到readme.md
